@@ -1,2 +1,2 @@
-# dxCQU.github.io
+# my.github.io
 my blog
